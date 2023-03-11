@@ -5,5 +5,8 @@ Why i did this? well on my android ImGui project i nedded to use an input text/n
 
 Im open to all suggestions so just tell me what you don't understand and how you would improve the project
 
+TO INCLUDE IT
+you just need to copy the header file in your project and include it in any part of your main file, BUT you need to include it after including "imgui.h"
+
 p.s
 mention to italiz
